@@ -1,0 +1,11 @@
+com\jitendra\orderservice\repo\OrderRepository.class
+com\jitendra\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\jitendra\orderservice\model\OrderLineItems.class
+com\jitendra\orderservice\config\WebClientConfig.class
+com\jitendra\orderservice\dto\OrderLineItemsDto.class
+com\jitendra\orderservice\model\Order.class
+com\jitendra\orderservice\OrderserviceApplication.class
+com\jitendra\orderservice\service\OrderService.class
+com\jitendra\orderservice\dto\InventoryResponse.class
+com\jitendra\orderservice\controller\OrderController.class
+com\jitendra\orderservice\dto\OrderRequest.class

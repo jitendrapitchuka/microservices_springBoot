@@ -1,0 +1,10 @@
+com\jitendra\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\jitendra\productservice\Repository\ProductRepo.class
+com\jitendra\productservice\model\Product.class
+com\jitendra\productservice\dto\ProductRequest.class
+com\jitendra\productservice\controller\ProductController.class
+com\jitendra\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\jitendra\productservice\service\ProductService.class
+com\jitendra\productservice\dto\ProductResponse.class
+com\jitendra\productservice\ProductserviceApplication.class
+com\jitendra\productservice\model\Product$ProductBuilder.class

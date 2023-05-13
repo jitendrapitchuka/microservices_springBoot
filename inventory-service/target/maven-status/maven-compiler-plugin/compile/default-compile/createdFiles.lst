@@ -1,0 +1,7 @@
+com\jitendra\inventoryservice\service\InventoryService.class
+com\jitendra\inventoryservice\InventoryserviceApplication.class
+com\jitendra\inventoryservice\Repo\InventoryRepository.class
+com\jitendra\inventoryservice\controller\InventoryController.class
+com\jitendra\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\jitendra\inventoryservice\dto\InventoryResponse.class
+com\jitendra\inventoryservice\model\Inventory.class

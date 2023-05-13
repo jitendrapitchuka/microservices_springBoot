@@ -1,0 +1,7 @@
+D:\microservices-new\product-service\src\main\java\com\jitendra\productservice\model\Product.java
+D:\microservices-new\product-service\src\main\java\com\jitendra\productservice\controller\ProductController.java
+D:\microservices-new\product-service\src\main\java\com\jitendra\productservice\dto\ProductRequest.java
+D:\microservices-new\product-service\src\main\java\com\jitendra\productservice\dto\ProductResponse.java
+D:\microservices-new\product-service\src\main\java\com\jitendra\productservice\Repository\ProductRepo.java
+D:\microservices-new\product-service\src\main\java\com\jitendra\productservice\ProductserviceApplication.java
+D:\microservices-new\product-service\src\main\java\com\jitendra\productservice\service\ProductService.java

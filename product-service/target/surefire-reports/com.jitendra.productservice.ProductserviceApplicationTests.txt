@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.jitendra.productservice.ProductserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.753 s <<< FAILURE! - in com.jitendra.productservice.ProductserviceApplicationTests
+com.jitendra.productservice.ProductserviceApplicationTests  Time elapsed: 1.753 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+

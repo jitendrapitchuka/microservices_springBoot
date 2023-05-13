@@ -1,0 +1,10 @@
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\config\WebClientConfig.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\model\Order.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\model\OrderLineItems.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\controller\OrderController.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\dto\InventoryResponse.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\dto\OrderLineItemsDto.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\dto\OrderRequest.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\OrderserviceApplication.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\repo\OrderRepository.java
+D:\microservices-new\order-service\src\main\java\com\jitendra\orderservice\service\OrderService.java
